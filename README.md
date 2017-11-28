@@ -19,4 +19,4 @@ reader.polling(none_stop=True, delay=5)
 > pip install requestBinAPI (pip3 install requestBinAPI)
 
 ## Installation from GitHub
-> Later
+> pip install git+https://github.com/Sergeydigl3/requestBinAPI.git
